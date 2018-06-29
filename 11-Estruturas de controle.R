@@ -90,7 +90,7 @@ while(y<5){
   y = y +10
   print(y)
 }
-
+mtcars[4,7]
 
 
 
